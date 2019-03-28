@@ -7,6 +7,8 @@ page. It is not a recursive crawler.
 # ChangeLog
 # ---------
 #
+# 2.12  Allow pip install as a package
+#
 # 2.11  The Scholar site seems to have become more picky about the
 #       number of results requested. The default of 20 in scholar.py
 #       could cause HTTP 503 responses. scholar.py now doesn't request
