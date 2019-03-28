@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [2.12] - 2019-03-28
+### Added
+- Make package pip installable
+
 ## [2.11]
 ### Added
 - The Scholar site seems to have become more picky about the
